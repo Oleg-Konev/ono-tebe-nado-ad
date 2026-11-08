@@ -10,7 +10,7 @@ body {
     margin: 0;
     color: #000;
     background: #fff;
-    font-family: Arial,Helvetica,sans-serif;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
 }
 
@@ -225,6 +225,8 @@ a {
 
 .about-logo img {
     width: 148px;
+    height: auto;
+    display: block;
 }
 
 .about-content h2 {
